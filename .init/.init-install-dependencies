@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/notemaster-3119-20cbedbe/notes_app_frontend"
+}
